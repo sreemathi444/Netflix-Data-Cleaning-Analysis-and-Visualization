@@ -18,7 +18,7 @@ This project analyzes the Netflix content dataset to uncover trends in content t
 - Python (Pandas, NumPy)
 - Jupyter Notebook
 - Matplotlib & Seaborn
-- Netflix Titles Dataset (Kaggle)
+- Netflix Titles Dataset
 
 ---
 
@@ -30,10 +30,3 @@ This project analyzes the Netflix content dataset to uncover trends in content t
 - Rating and duration distribution analysis
 - Insightful visualizations and conclusions
 
----
-
-## 📁 Project Files
-
-- `Netflix_Analysis_Notebook.ipynb` – Main analysis notebook  
-- `Netflix_Insights_Report.pdf` – Summary of insights  
-- `netflix_titles.csv` – Dataset  
