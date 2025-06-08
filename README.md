@@ -1,2 +1,39 @@
-# Netflix-Data-Cleaning-Analysis-and-Visualization
-A data analytics project involving cleaning, exploration, and visualization of Netflix data using Python. Includes machine learning-based content recommendations, feature analysis, and key business insights for digital content platforms.
+# Netflix Content Analysis – Trends and Insights
+
+This project analyzes the Netflix content dataset to uncover trends in content type, genre, country of origin, duration, and release patterns. The goal is to understand user preferences and platform strategies through data analysis and visualization.
+
+---
+
+## 📌 Project Objectives
+
+- Analyze content distribution by type (Movie/TV Show)
+- Explore trends in release years and monthly additions
+- Identify top contributing countries and popular genres
+- Study rating patterns and genre-rating relationships
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- Python (Pandas, NumPy)
+- Jupyter Notebook
+- Matplotlib & Seaborn
+- Netflix Titles Dataset (Kaggle)
+
+---
+
+## 🔍 Key Features
+
+- Data cleaning and preprocessing
+- Time-based trend analysis
+- Country and genre-based breakdown
+- Rating and duration distribution analysis
+- Insightful visualizations and conclusions
+
+---
+
+## 📁 Project Files
+
+- `Netflix_Analysis_Notebook.ipynb` – Main analysis notebook  
+- `Netflix_Insights_Report.pdf` – Summary of insights  
+- `netflix_titles.csv` – Dataset  
